@@ -1,0 +1,48 @@
+@import "normalize.css";
+
+.container
+{
+	width: 910px;
+	margin: 0 auto;
+	color: #787878;
+	font-family: 微软雅黑;
+}
+
+.left-side
+{
+	width: 33%;
+	float: left;
+	background: #5dc3b1;
+}
+
+.right-side
+{
+	width: 67%;
+	float: left;
+	background: #f1eee8;
+}
+
+.left-wrap
+{
+	width: 222px;
+	margin: 50px auto;
+	text-align: center;
+}
+
+.head-img img
+{
+	width: 160px;
+	border-radius: 140px;
+}
+
+.username
+{
+	color: #f1eee8;
+}
+
+.slogan
+{
+	border-top: 2px solid #1d7d71;
+	border-bottom: 1px solid #1d7d71;
+	line-height: 12px;
+}
